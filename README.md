@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @masihamid
+- 👋 Hi, I’m @masi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
